@@ -24,8 +24,3 @@ Then just run from command line
 ```bash
 python requestors_monitoring.py
 ```
-
-## Pega Infinity
-In Pega infinity service `/monitor/pingService/ping` have changed its contract. This tool is only usable for Pega 7.* 
-
-You can also try to test it with earlier versions 
