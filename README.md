@@ -11,13 +11,18 @@ from requestors_monitoring import requestors_monitoring
 ```
 
 Firs argument of function is a list of your nodes URLs in format like `http://pega:1111`
+
 Second argument is a tuple with login and password
+
 Third argument is time between monitoring requests in seconds
+ß
 
 
 ### Command line
 Fill `NODES` list variable with a list of your nodes URLs in format like `http://pega:1111`
+
 Change `AUTH` variable to change login and password
+
 Change `PERIOD` variable to change time between monitoring requests in seconds
 
 Then just run from command line
